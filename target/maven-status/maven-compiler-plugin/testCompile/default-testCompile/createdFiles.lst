@@ -1,0 +1,4 @@
+testsBasics\FirstJUnitTest.class
+selenium\SeleniumTest.class
+testsBasics\TestBase.class
+selenium\SeleniumTestBase.class
